@@ -11,7 +11,7 @@ def modinv(a, m):
         raise Exception('modular inverse does not exist')
     else:
         return x % m
-        
+
 
 p = 2159947535959146091116171018558446546179
 q = 658558036833541874645521278345168572231473
